@@ -4,7 +4,7 @@
 #program ini menggunakan fungsi input()
 
 ulang_1017 = int(input("masukan jumlah perulangan: "))
-print("perulangan ke-0 sampat ke-", ulang_1017-1)
+print("perulangan ke-0 sampai ke-", ulang_1017-1)
 for i_1017 in range(ulang_1017):
     print(i_1017, end= " ")
 print()
