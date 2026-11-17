@@ -2,17 +2,17 @@
 # NIM: 2611531017
 # Question 6
 
-# A
+# Soal pemanasan
 first_name = " muhammad"
 last_name = "rafi "
 full_name = first_name.strip() + " " + last_name.strip()
 print(full_name)
 print(full_name.title())
 
-# B
-full_name = input("name: ")
-NIM = input("NIM: ")
- 
+# soal 6
+full_name = "Siti Aisyah"
+NIM = "2610511023"
+
 # Build the username: first name in lowercase + last 3 digits of the NIM.
 # Do not use split().
 
