@@ -10,8 +10,8 @@ print(full_name)
 print(full_name.title())
 
 # soal 6
-full_name = "Siti Aisyah"
-NIM = "2610511023"
+full_name = input("name: ")
+NIM = input("NIM: ")
 
 # Build the username: first name in lowercase + last 3 digits of the NIM.
 # Do not use split().
